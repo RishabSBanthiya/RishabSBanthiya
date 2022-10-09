@@ -7,25 +7,15 @@
 
 <br>
 
-- 🌱 I’m currently learning Advanced Data structures & Algorithms and AWS Cloud Practioner.
-- 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development projects.
-- 🤔 I’m looking for help with DSA.
-- 💬 Ask me about OOP, Blockchain, Leadership and Software Engineering. 
-- 📫 How to reach me: asiasharif79@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Less than 1% of the world have my personality (Advocate personality) and I enjoy playing chess.
+- 🌱 I’m currently working on research with Banach Technologies Singapore.
+- 👯 I’m looking to collaborate on Machine Learning, Software Engineering and FinTech projects.
+- 📫 How to reach me: rishabb3@illinois.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am endorsed for my imessage game skills!
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/asia-sharif-60616b150/">
+<a href="https://www.linkedin.com/in/rishab-banthiya-2b4501193/">
 <img src="images/linkedin.png" alt="alternate text"
-width="30px" height="height">
-</a> 
-<a href="https://medium.com/@asiasharif12/tech-newbie-to-an-award-winning-engineer-in-less-than-12-months-8aa162f3d8f4">
-<img src="images/medium.png" alt="alternate text"
-width="30px" height="height">
-</a> 
-<a href="https://twitter.com/AsiaSharif15">
-<img src="images/twitter.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 
@@ -37,10 +27,5 @@ width="30px" height="height">
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-##  ✍🏾 Project links
-
-- 👩🏽‍🏫 [Click Me](https://github.com/asiasharif/Bootcamp_projects) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiasharif&layout=compact)](https://github.com/asiasharif)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabsbanthiya&layout=compact)](https://github.com/rishabsbanthiya)
 
