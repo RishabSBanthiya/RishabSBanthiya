@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishab Banthiya. 👋
 
-- 🏦 Software Engineering Intern @ Pfizer
+- 🏦 Technology Analyst @ SocGen
 - 📓 Currently studying computer science and economics @ UIUC
 - 🌱 I’m currently working on research with Banach Technologies Singapore.
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and FinTech projects.
