@@ -1,11 +1,8 @@
 ### Hi there, I'm Rishab Banthiya. 👋
 
-- 🏦 Technology Analyst @ SocGen
-- 📓 Currently studying computer science and economics @ UIUC
-- 🌱 I’m currently working on research with Banach Technologies Singapore.
+- 🏦 Programmer Analyst @ SocGen
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and FinTech projects.
-- 📫 How to reach me: rishabb3@illinois.edu
-- 😄 Pronouns: he/him
+- 📫 How to reach me: banthiya.rishab1511@gmail.com
 - ⚡ Fun fact: I am endorsed for my imessage game skills!
 
 ### 🤝 Connect with me:
