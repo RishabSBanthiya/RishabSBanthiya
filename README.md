@@ -2,7 +2,7 @@
 
 - 🏦 Programmer Analyst @ SocGen
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and FinTech projects.
-- 📫 How to reach me: banthiya.rishab1511@gmail.com
+- 📫 How to reach me: rishabsbanthiya.com
 - ⚡ Fun fact: I am endorsed for my imessage game skills!
 
 ### 🤝 Connect with me:
